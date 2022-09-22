@@ -1,0 +1,9 @@
+{
+	"name": "azdatafactoryayi",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00e9577e-235a-4a96-9d92-865f17b423b6",
+		"tenantId": "6c637512-c417-4e78-9d62-b61258e4b619"
+	}
+}
